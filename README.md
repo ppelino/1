@@ -23,4 +23,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, propo
 Licença
 Este projeto é licenciado sob a Licença MIT.
 
-Image(url='https://caminho/para/sua_imagem.png')
+**Licença:**
+**Licença:**
+Este projeto é licenciado sob a [Licença MIT](https://raw.githubusercontent.com/ppelino/BayesAnalyzer/main/LICENSE).
+
+Imagens:
+1. ![Descrição da Imagem 1](https://github.com/ppelino/BayesAnalyzer/blob/main/Captura%20de%20tela%202024-03-02%20162744.png)
+2. ![Descrição da Imagem 2](https://github.com/ppelino/BayesAnalyzer/blob/main/Captura%20de%20tela%202024-03-02%20163421.png)
+3. ![Descrição da Imagem 3](https://github.com/ppelino/BayesAnalyzer/blob/main/Captura%20de%20tela%202024-03-02%20163609.png)
+
